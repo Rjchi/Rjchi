@@ -68,9 +68,9 @@
 [learning_next_anchor]: #learning-next
 
 - 🔭 I’m currently working on enhancing my skills.
-- 🤔 I’m looking for help with my wifi,
-- 💬 Ask me about my projects
-- 😄 Pronouns: He/Him
+- 🤔 I’m looking for help with my wifi.
+- 💬 Ask me about my projects.
+- 😄 Pronouns: He/Him.
 
 #
 <!-- 
