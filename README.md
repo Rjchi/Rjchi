@@ -41,6 +41,8 @@
 [<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777BB4" alt="PHP logo" title="PHP" height="25" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Laravel-282C34?logo=Laravel&logoColor=FF2D20" alt="Laravel logo" title="Laravel" height="25" />][learning_next_anchor]
 
 <a name="learning-next"></a>
 
