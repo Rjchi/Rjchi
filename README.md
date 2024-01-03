@@ -55,5 +55,6 @@
 
 #
 ![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=rjchi&show_icons=true&theme=darcula&count_private=true)
+![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=rjchi&show_icons=true&theme=darcula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rjchi&layout=compact&theme=darcula)](https://github.com/rjchi/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rjchi&show_icons=true&theme=dark)
