@@ -56,5 +56,11 @@
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rjchi&theme=midnight-purple&border_radius=0.2)](https://github.com/rjchi/github-readme-stats)
 
 #
+<a href="https://github.com/rjchi/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rjchi" />
+</a>
+<a href="https://github.com/rjchi/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rjchi&layout=donut&langs_count=8&card_width=320" />
+</a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rjchi&layout=donut&theme=midnight-purple&border_radius=0.2)](https://github.com/Rjchi/github-readme-stats)
 ![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rjchi&show_icons=true&theme=midnight-purple&count_private=true&border_radius=0.2)
