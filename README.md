@@ -54,5 +54,5 @@
 
 
 #
-![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=rjchi&show_icons=true&theme=midnight-purple&count_private=trueborder_radius=1)
+![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=rjchi&show_icons=true&theme=midnight-purple&count_private=true&border_radius=1)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rjchi&layout=compact&theme=midnight-purple)](https://github.com/rjchi/github-readme-stats)
