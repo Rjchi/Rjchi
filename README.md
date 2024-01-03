@@ -34,7 +34,7 @@
 
 [<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" />][learning_next_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=2496ED" alt="GraphQL logo" title="GraphQL" height="25" />][learning_next_anchor]
+[<img src="https://img.shields.io/badge/docker-blue?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Docker-grey?style=for-the-badge&logo=docker" alt="Docker logo" title="Docker" height="25" />][learning_next_anchor]
 
