@@ -1,5 +1,10 @@
 # Hi, I'm Ricardo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
+<div align="center">
+  <p><b>Profile Views</b></p>
+  <img src="https://profile-counter.glitch.me/rjchi/count.svg" />
+</div>
+
 ## 🛠  Technologies and tools
 
 <a name="learning-now"></a>
