@@ -45,6 +45,10 @@
 [<img src="https://img.shields.io/badge/Laravel-282C34?logo=Laravel&logoColor=FF2D20" alt="Laravel logo" title="Laravel" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=1B72BE" alt="Java logo" title="Java" height="25" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Netlify-282C34?logo=netlify&logoColor=00C7B7" alt="Netlify logo" title="Netlify" height="25" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Render-282C34?logo=render&logoColor=46E3B7" alt="Render logo" title="Render" height="25" />][learning_next_anchor]
 
 <a name="learning-next"></a>
 
