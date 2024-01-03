@@ -35,6 +35,8 @@
 [<img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=0F0F11" alt="Angular logo" title="Angular" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Django-282C34?logo=django&logoColor=092E20" alt="Django logo" title="Django" height="25" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" />][learning_next_anchor]
 
 <a name="learning-next"></a>
 
