@@ -43,6 +43,8 @@
 [<img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777BB4" alt="PHP logo" title="PHP" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Laravel-282C34?logo=Laravel&logoColor=FF2D20" alt="Laravel logo" title="Laravel" height="25" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=1B72BE" alt="Java logo" title="Java" height="25" />][learning_next_anchor]
 
 <a name="learning-next"></a>
 
