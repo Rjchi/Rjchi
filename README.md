@@ -34,7 +34,7 @@
 
 [<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" />][learning_next_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/AWS-grey?style=for-the-badge&logo=Amazon" alt="aws" title="aws" height="25" />][learning_next_anchor]
+[<img src="https://img.shields.io/badge/AWS-grey?style=for-the-badge&logo=AmazonWebService" alt="aws" title="aws" height="25" />][learning_next_anchor]
 
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
