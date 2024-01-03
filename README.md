@@ -49,6 +49,8 @@
 [<img src="https://img.shields.io/badge/Netlify-282C34?logo=netlify&logoColor=00C7B7" alt="Netlify logo" title="Netlify" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Render-282C34?logo=render&logoColor=46E3B7" alt="Render logo" title="Render" height="25" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Railway-282C34?logo=railway&logoColor=0B0D0E" alt="Railway logo" title="Railway" height="25" />][learning_next_anchor]
 
 <a name="learning-next"></a>
 
