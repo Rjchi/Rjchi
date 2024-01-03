@@ -48,11 +48,11 @@
 - 👯 I’m looking to collaborate on Mind blowing projects
 - 🤔 I’m looking for help with my wifi,
 - 💬 Ask me about my projects
-- 📫 How to reach me:  [@ashish921998](https://www.linkedin.com/in/ash921998)
+- 📫 How to reach me:  [@rjchi](https://www.linkedin.com/in/ash921998)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My smartness 💡 lies in my laziness 😴
 
 
 #
-![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashish921998&show_icons=true&theme=darcula&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashish921998&layout=compact&theme=darcula)](https://github.com/ashish921998/github-readme-stats)
+![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=rjchi&show_icons=true&theme=darcula&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rjchi&layout=compact&theme=darcula)](https://github.com/rjchi/github-readme-stats)
