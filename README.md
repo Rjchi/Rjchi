@@ -37,6 +37,8 @@
 [<img src="https://img.shields.io/badge/Django-282C34?logo=django&logoColor=092E20" alt="Django logo" title="Django" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="25" />][learning_next_anchor]
 
 <a name="learning-next"></a>
 
