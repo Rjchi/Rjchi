@@ -55,5 +55,4 @@
 
 #
 ![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rjchi&show_icons=true&theme=midnight-purple&count_private=true&border_radius=0.2)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rjchi&repo=anime-api-tsc-server)](https://github.com/Rjchi/anime-api-tsc-server)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rjchi&layout=compact&theme=midnight-purple&border_radius=0.2)
