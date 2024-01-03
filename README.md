@@ -53,7 +53,7 @@
 - ⚡ Fun fact: My smartness 💡 lies in my laziness 😴
 
 #
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rjchi&theme=midnight-purple&border_radius=0.2)](https://github.com/rjchi/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rjchi&theme=midnight-purple&border_radius=0.2)]
 
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rjchi&layout=donut&theme=midnight-purple&border_radius=0.2)](https://github.com/Rjchi/github-readme-stats)
