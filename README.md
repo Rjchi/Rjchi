@@ -67,14 +67,10 @@
 [learning_now_anchor]: #learning-now
 [learning_next_anchor]: #learning-next
 
-- 🔭 I’m currently working on Exceling in every aspect
-- 🌱 I’m currently learning flex README on my profile 💪.
-- 👯 I’m looking to collaborate on Mind blowing projects
+- 🔭 I’m currently working on enhancing my skills.
 - 🤔 I’m looking for help with my wifi,
 - 💬 Ask me about my projects
-- 📫 How to reach me:  [@rjchi](https://www.linkedin.com/in/ash921998)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: My smartness 💡 lies in my laziness 😴
 
 #
 <!-- 
