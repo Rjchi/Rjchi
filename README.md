@@ -34,7 +34,9 @@
 
 [<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" />][learning_next_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/docker-282C34?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" />][learning_next_anchor]
+[<img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Amazon-282C34?logo=amazon&logoColor=FF9900" alt="Amazon logo" title="Amazon" height="25" />][learning_next_anchor]
 &nbsp;
 
 [tech_tools_anchor]: #bonjour--
