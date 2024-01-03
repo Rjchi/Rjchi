@@ -33,6 +33,8 @@
 [<img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Postman logo" title="Postman" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=0F0F11" alt="Angular logo" title="Angular" height="25" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Django-282C34?logo=django&logoColor=092E20" alt="Django logo" title="Django" height="25" />][learning_next_anchor]
 
 <a name="learning-next"></a>
 
