@@ -36,6 +36,8 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/docker-gray?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" />][learning_next_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=f5f5f5" alt="Docker logo" title="Docker" height="25" />][learning_next_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/Docker-grey?style=for-the-badge&logo=docker" alt="Docker logo" title="Docker" height="25" />][learning_next_anchor]
 
 [tech_tools_anchor]: #bonjour--
