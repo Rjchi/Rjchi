@@ -85,6 +85,10 @@
 - 😄 Pronouns: He/Him.
 
 #
+
+<p>
+    <img src="https://wakatime.com/share/@rjchi/70fd5e13-ca18-49c0-b5aa-203974f5bce6.svg" height="320" width="420">
+ </p> 
 <!-- 
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rjchi&theme=midnight-purple&border_radius=0.2)
 -->
