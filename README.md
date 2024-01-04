@@ -99,4 +99,4 @@
 #
 ## Github Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=rjchi&theme=juicyfresh&column=-1">
+<img src="https://github-profile-trophy.vercel.app/?username=rjchi&theme=radical&column=-1">
