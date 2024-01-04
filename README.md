@@ -81,7 +81,6 @@
 <!-- 
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rjchi&theme=midnight-purple&border_radius=0.2)
 -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=rjchi&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Styephen's streak" /></p>
 
 <a href="https://github.com/rjchi/github-readme-stats">
   <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=rjchi&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=midnight-purple&border_radius=0.2" />
@@ -89,3 +88,6 @@
 <a href="https://github.com/rjchi/convoychat">
   <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rjchi&layout=donut&theme=midnight-purple&border_radius=0.2&langs_count=8&card_width=320" />
 </a>
+
+#
+[![GitHub Streak](https://streak-stats.demolab.com?user=rjchi&theme=hacker&hide_border=true)](https://git.io/streak-stats)
