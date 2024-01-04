@@ -2,8 +2,9 @@
   <p><b>Profile Views</b></p>
   <img src="https://profile-counter.glitch.me/rjchi/count.svg" />
 </div>
+
 #
-[![GitHub Streak](https://streak-stats.demolab.com?user=Rjchi&theme=hacker&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rjchi&theme=hacker&hide_border=true)](https://git.io/streak-stats)
 
 # Hi, I'm Ricardo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
