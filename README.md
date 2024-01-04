@@ -95,3 +95,7 @@
 <a href="https://github.com/rjchi/convoychat">
   <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rjchi&layout=donut&theme=midnight-purple&border_radius=0.2&langs_count=8&card_width=320" />
 </a>
+
+#
+
+<img src="https://github-profile-trophy.vercel.app/?username=rjchi&theme=algolia&column=5">
