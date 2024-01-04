@@ -92,10 +92,10 @@
 -->
 
 <a href="https://github.com/rjchi/github-readme-stats">
-  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=rjchi&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=midnight-purple&border_radius=0.2" />
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=rjchi&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&border_radius=0.2" />
 </a>
 <a href="https://github.com/rjchi/convoychat">
-  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rjchi&layout=donut&theme=midnight-purple&border_radius=0.2&langs_count=8&card_width=320" />
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rjchi&layout=donut&theme=tokyonight&border_radius=0.2&langs_count=8&card_width=320" />
 </a>
 
 #
