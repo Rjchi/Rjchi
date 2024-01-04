@@ -79,7 +79,7 @@
 
 #
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rjchi&theme=midnight-purple&border_radius=0.2)](https://github.com/rjchi/github-readme-stats)
-
+<img src="https://wakatime.com/share/@rjchi/74daaed9-fbda-4f65-8852-851c39e3a573.svg" height="400" />
 #
 <a href="https://github.com/rjchi/github-readme-stats">
   <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=rjchi&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=midnight-purple&border_radius=0.2" />
