@@ -6,7 +6,7 @@
 #
 <div align="center">
 <a href="https://git.io/streak-stats">
-  <img height=200 align="center" src="https://streak-stats.demolab.com?user=rjchi&theme=hacker&hide_border=true" />
+  <img height=200 align="center" src="https://streak-stats.demolab.com?user=rjchi&theme=neon&hide_border=true" />
 </a>
 </div>
 
