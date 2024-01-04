@@ -86,12 +86,9 @@
 
 #
 
-<p>
-    <img src="https://wakatime.com/share/@rjchi/70fd5e13-ca18-49c0-b5aa-203974f5bce6.svg" height="320" width="420">
- </p> 
-<!-- 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rjchi&theme=midnight-purple&border_radius=0.2)
--->
+<p align="center">
+    <img src="https://wakatime.com/share/@rjchi/c790ce35-9598-4a60-9105-292a03d7f267.svg"" height="320" width="420">
+</p> 
 
 <a href="https://github.com/rjchi/github-readme-stats">
   <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=rjchi&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=midnight-purple&border_radius=0.2" />
