@@ -4,13 +4,11 @@
 </div>
 
 #
-
+<div align="center">
 <a href="https://git.io/streak-stats">
   <img height=300 align="center" src="https://streak-stats.demolab.com?user=rjchi&theme=hacker&hide_border=true" />
 </a>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=rjchi&theme=hacker&hide_border=true)](https://git.io/streak-stats)
-
+</div>
 
 # Hi, I'm Ricardo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
