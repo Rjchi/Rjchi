@@ -7,7 +7,7 @@
 <div align="center">
 <a href="https://git.io/streak-stats">
 <!--   <img height=200 align="center" src="https://streak-stats.demolab.com?user=rjchi&theme=neon&hide_border=true" /> -->
-  <img src="https://streak-stats.demolab.com?user=Rjchi&theme=neon-dark&locale=es" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=rjchi&theme=neon-dark&locale=es" alt="GitHub Streak" />
 </a>
 </div>
 
